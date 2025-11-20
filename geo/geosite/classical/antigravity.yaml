@@ -1,0 +1,7 @@
+payload:
+    - DOMAIN-SUFFIX,us-central1.run.app
+    - DOMAIN-KEYWORD,antigravity
+    - DOMAIN,antigravity.google
+    - DOMAIN,antigravity-unleash.goog
+    - DOMAIN-SUFFIX,googleapis.com
+    - DOMAIN,lh3.googleusercontent.com
