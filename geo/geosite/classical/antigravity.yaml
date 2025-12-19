@@ -1,4 +1,9 @@
 payload:
+    - PROCESS-NAME,Antigravity.exe
+    - PROCESS-NAME,language_server_windows_x64.exe
+    - PROCESS-NAME,language_server_windows.exe
+    - PROCESS-NAME,conhost.exe
+    - PROCESS-NAME,pwsh.exe
     - DOMAIN-SUFFIX,run.app
     - DOMAIN-KEYWORD,antigravity
     - DOMAIN,antigravity.google
@@ -13,8 +18,3 @@ payload:
     - DOMAIN-SUFFIX,gvt1.com
     - DOMAIN-SUFFIX,open-vsx.org
     - DOMAIN,lh3.googleusercontent.com
-    - PROCESS-NAME,Antigravity.exe
-    - PROCESS-NAME,language_server_windows_x64.exe
-    - PROCESS-NAME,language_server_windows.exe
-    - PROCESS-NAME,conhost.exe
-    - PROCESS-NAME,pwsh.exe
