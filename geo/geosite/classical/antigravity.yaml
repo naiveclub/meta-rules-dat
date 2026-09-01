@@ -1,5 +1,6 @@
 payload:
     - PROCESS-NAME,Antigravity.exe
+    - PROCESS-NAME,language_server.exe
     - PROCESS-NAME,language_server_windows_x64.exe
     - PROCESS-NAME,language_server_windows.exe
     - PROCESS-NAME,conhost.exe
